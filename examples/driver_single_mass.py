@@ -130,5 +130,4 @@ print("  Saved: ../figures/gravity_fields_spacing_25m.png")
 plt.show()
 
 print("\n" + "="*60)
-print("Plot generation complete!")
 print("="*60)
